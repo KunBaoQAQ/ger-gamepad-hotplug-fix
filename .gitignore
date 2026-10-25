@@ -1,0 +1,18 @@
+# build output
+??/obj/
+??/out/
+*.obj
+*.pdb
+*.exp
+*.lib
+*.ilk
+
+# runtime files produced by the fix
+dinput8_fix.log
+dinput8_crash.log
+*.backup-*
+*.user
+
+# local test artifacts
+sandbox/
+*.zip
